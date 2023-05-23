@@ -8,3 +8,12 @@ $fa-font-path: "../fonts/webfonts" !default;
 @import "~@fortawesome/fontawesome-free/scss/regular";
 @import "~@fortawesome/fontawesome-free/scss/solid";
 @import "~@fortawesome/fontawesome-free/scss/brands";
+
+
+.gi-img {
+    max-width: 250px;
+}
+
+.gi-img-show {
+    max-width: 400px;
+}
